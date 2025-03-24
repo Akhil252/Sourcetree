@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Hi this is A from sourcetree1!
-=======
-Hi this is A from sourcetree!
->>>>>>> origin/main
